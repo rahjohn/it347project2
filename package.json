@@ -1,0 +1,11 @@
+{
+  "name": "project2",
+  "version": "0.0.0",
+  "description": "Real time web chat",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jade": "^1.11.0",
+    "socket.io": "^2.0.4"
+  },
+  "author": "developer"
+}
